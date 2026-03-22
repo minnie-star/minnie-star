@@ -10,7 +10,7 @@ I'm **Minnie Star**, a curious and driven student at **Brigham Young University�
 
 - 🎓 Currently learning **Computer Science**, with a strong focus on building scalable and impactful applications.  
 - 🌍 My ultimate goal is to craft **world-changing software solutions** that empower people and transform industries.  
-- 💬 Ask me about **Python, C#, JavaScript, HTML/CSS, SQL**I love sharing knowledge and learning from others.  
+- 💬 Ask me about **Python, C#, JavaScript, HTML/CSS, SQL **I love sharing knowledge and learning from others.  
 - 🔎 I thrive on problem-solving, continuous learning, and exploring how technology can make life smarter, faster, and better.  
 
 ---
@@ -37,4 +37,4 @@ I'm **Minnie Star**, a curious and driven student at **Brigham Young University�
 
 Feel free to explore my repositories, fork projects, or drop me a message. Collaboration fuels innovation, and I’m always excited to connect with fellow developers, learners, and creators.  
 
-✨ Thanks for stopping by—happy coding and keep building amazing things! ✨  
+✨ Thanks for stopping by happy coding and keep building amazing things! ✨  
