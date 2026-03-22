@@ -34,7 +34,6 @@ I'm **Minnie Star**, a curious and driven student at **Brigham Young University�
 ## 🤝 Let’s Connect!  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/minenhle-hlongwane-a354783b9/)  
-- 🐦 [Twitter](Your Twitter Profile Link)  
 
 Feel free to explore my repositories, fork projects, or drop me a message. Collaboration fuels innovation, and I’m always excited to connect with fellow developers, learners, and creators.  
 
